@@ -1,8 +1,8 @@
-name: rwa_deep_ar
-description: camera_deep_ar is not being updated so rwa_deep_ar is born just fixed the auto turn off camera on close
+name: flutter_deep_ar
+description: camera_deep_ar is not being updated to null safety  so flutter_deep_ar is born just to fix null safety error
 version: 0.0.12
 #author:
-homepage: https://github.com/137Vishal/rwa_deep_ar
+homepage: https://github.com/Inder-pal-singh/flutter_deep_ar
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
